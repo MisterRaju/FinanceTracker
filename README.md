@@ -21,7 +21,7 @@ The **Finance Tracker App** helps you track your expenses and income efficiently
 ## 📦 Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/MisterRaju/FinanceTracker.git
+   git clone https://github.com/yourusername/FinanceTracker.git
    ```
 2. Navigate to the project directory:
    ```sh
