@@ -21,11 +21,11 @@ The **Finance Tracker App** helps you track your expenses and income efficiently
 ## 📦 Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/finance-tracker-app.git
+   git clone https://github.com/yourusername/FinanceTracker.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd finance-tracker-app
+   cd FinanceTracker
    ```
 3. Install dependencies:
    ```sh
@@ -51,4 +51,4 @@ This project is licensed under the [MIT License](LICENSE).
 Pull requests are welcome! If you find any issues, open an issue in the repository.
 
 ## ✨ Author
-Developed by [Your Name](https://github.com/yourusername).
+Developed by [Your Name](https://github.com/MisterRaju).
