@@ -44,11 +44,9 @@ The **Finance Tracker App** helps you track your expenses and income efficiently
 4. Click **+ Add Transaction**.
 5. Tap a transaction to **edit** it, or long-press to **delete** it.
 
-## 📜 License
-This project is licensed under the [MIT License](LICENSE).
 
 ## 🤝 Contributing
 Pull requests are welcome! If you find any issues, open an issue in the repository.
 
 ## ✨ Author
-Developed by [Your Name](https://github.com/MisterRaju).
+Developed by [Raju](https://github.com/MisterRaju).
